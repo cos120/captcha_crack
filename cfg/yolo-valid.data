@@ -1,0 +1,6 @@
+classes= 1
+train  = darknet/pascal_voc/train.txt
+valid = darknet/50000_jpg.txt
+names = data/yolo.names
+backup = darknet/model/anchor_xu
+

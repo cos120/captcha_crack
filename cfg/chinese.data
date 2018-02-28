@@ -1,0 +1,6 @@
+classes=3549
+train  = darknet/chinese_character_train/train.list
+valid  = chinese_character_train/train.list
+labels = darknet/data/chinese_label.names
+backup = darknet/model/classifier
+top=100

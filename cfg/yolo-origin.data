@@ -1,0 +1,6 @@
+classes= 1
+train = darknet/data_set_origin/train.txt
+valid = darknet/test_data/train.txt
+names = darknet/data/yolo.names
+backup = darknet/debug
+
