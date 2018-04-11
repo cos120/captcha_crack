@@ -2,7 +2,7 @@
 
 该程序使用Yolo定位验证码文字，再通过训练一个文字分类器从而达到识别点击选择验证码的目的
 
-[详细链接(知乎)](https://zhuanlan.zhihu.com/p/34186397)
+[详细教程](https://cos120.github.io/crack/)
 
 ## 如何使用
 
