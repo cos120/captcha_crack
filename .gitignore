@@ -234,3 +234,4 @@ venv.bak/
 /python/imgs/
 /model/darknet19_448.conv.23
 !imgs/*.png
+crack/

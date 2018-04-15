@@ -1,0 +1,6 @@
+classes= {{ class_nums }}
+train  = {{ train_path }}
+valid  = {{ valid_path }}
+labels = {{ label_path }}
+backup = {{ weight_path }}
+top = {{ top_nums }}
