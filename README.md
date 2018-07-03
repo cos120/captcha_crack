@@ -4,6 +4,10 @@
 
 [详细教程](https://cos120.github.io/crack/)
 
+## 数据集问题
+
+[数据集issue](https://github.com/cos120/captcha_crack/labels/dataset)
+
 ## 如何使用
 
 查看`run.sh`, 提供训练定位以及识别命令。基本配置参数见[darknet](https://pjreddie.com/darknet/)
